@@ -72,3 +72,6 @@ Polecenia związane z plikami i katalogami:
 |20. vi/vim |                           | #Wbudowany edytor, najwygodniej rozpocząć pracę poprzez 'vi nazwa_pliku' (stworzy nieistniejący plik),      |
 |           |                           |  np. 'vi new_file.txt'                                                                                      |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|21. Więcej |                           | https://pl.wikibooks.org/wiki/Ubuntu/Podstawowe_polecenia                                                   |         
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+
